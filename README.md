@@ -19,11 +19,6 @@
 
 # 🌐 Live Demo
 
-## 👤 Patient Application  
-👉 https://preetham-bharadwaj.github.io/AWS-AI-For-Bharath/
-
-## 🏥 Hospital Dashboard  
-👉 (Add your hospital dashboard live link here)
 
 No installation required.  
 Fully deployed and accessible online.
