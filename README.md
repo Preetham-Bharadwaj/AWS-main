@@ -16,12 +16,13 @@
 </div>
 
 ---
+👤 Patient Application
+🔗 https://github.com/Preetham-Bharadwaj/AWS-AI-For-Bharath.git
 
-# 🌐 Live Demo
+---
 
-
-No installation required.  
-Fully deployed and accessible online.
+### 🏥 Hospital Management Dashboard
+🔗 https://github.com/Preetham-Bharadwaj/Hospital-dashboard.git
 
 ---
 
