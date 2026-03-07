@@ -3,7 +3,7 @@ lucide.createIcons();
 
 // Configuration for deployment URLs
 const DEPLOYMENT_URLS = {
-    patient: "https://preetham-bharadwaj.github.io/AWS-AI-For-Bharath/",
+    patient: "https://preetham-bharadwaj.github.io/Patient-app/",
     hospital: "https://siddesh-g-h.github.io/Hospital-dashboard/"
 };
 
