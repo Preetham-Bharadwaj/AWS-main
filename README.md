@@ -16,12 +16,12 @@
 </div>
 
 ---
-### 👤 Patient Application
+### 👤 Patient Application (GIT REPO)
 🔗 https://github.com/Preetham-Bharadwaj/Patient-app.git
 
 ---
 
-### 🏥 Hospital Management Dashboard
+### 🏥 Hospital Management Dashboard  (GIT REPO)
 🔗 https://github.com/Preetham-Bharadwaj/Hospital-dashboard.git
 
 ---
