@@ -28,7 +28,7 @@
 # 🌐 Live Demo
 
 ## 👤 Patient Application  
-👉 https://preetham-bharadwaj.github.io/Patient-app/
+👉https://siddesh-g-h.github.io/Patient_app/
 
 ## 🏥 Hospital Dashboard  
 👉 https://siddesh-g-h.github.io/Hospital-dashboard/
